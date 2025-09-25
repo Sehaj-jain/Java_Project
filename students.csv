@@ -1,0 +1,6 @@
+id,regNo,fullName,email,department
+S001,2023001,John Doe,john.doe@university.edu,Computer Science
+S002,2023002,Jane Smith,jane.smith@university.edu,Electrical Engineering
+S003,2023003,Mike Johnson,mike.johnson@university.edu,Mathematics
+S004,2023004,Sarah Wilson,sarah.wilson@university.edu,Business Administration
+S005,2023005,David Brown,david.brown@university.edu,Physics

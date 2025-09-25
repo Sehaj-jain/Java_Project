@@ -1,0 +1,8 @@
+code,title,credits,department,maxCapacity
+CS101,Introduction to Java Programming,3,COMPUTER_SCIENCE,25
+CS201,Data Structures and Algorithms,4,COMPUTER_SCIENCE,20
+MATH101,Calculus I,4,MATHEMATICS,30
+EE101,Circuit Analysis,3,ELECTRICAL_ENGINEERING,15
+BA201,Business Management,3,BUSINESS_ADMINISTRATION,35
+PHY101,General Physics,4,PHYSICS,25
+CS301,Advanced Java Programming,3,COMPUTER_SCIENCE,18
